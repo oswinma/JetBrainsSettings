@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="LocalChanges" />
     <option name="defaultScopeName" value="LocalChanges" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="LocalChanges" />
     <mask>*.css</mask>
     <mask>*.html</mask>
