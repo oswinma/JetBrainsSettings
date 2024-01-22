@@ -2,7 +2,9 @@
   <component name="MavenWrapperMapping">
     <option name="mapping">
       <map>
+        <entry key="https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven/apache-maven/3.9.1/apache-maven-3.9.1-bin.zip" value="C:\Users\Oswin\.m2\wrapper\dists\apache-maven-3.9.1-bin\1qu2j845gaffp9c8ucrqm80hii\apache-maven-3.9.1" />
         <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.8.6/apache-maven-3.8.6-bin.zip" value="C:\Users\Oswin\.m2\wrapper\dists\apache-maven-3.8.6-bin\1ks0nkde5v1pk9vtc31i9d0lcd\apache-maven-3.8.6" />
+        <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.9.5/apache-maven-3.9.5-bin.zip" value="C:\Users\Oswin\.m2\wrapper\dists\apache-maven-3.9.5-bin\2adeog8mj13csp1uusqnc1f2mo\apache-maven-3.9.5" />
       </map>
     </option>
   </component>
